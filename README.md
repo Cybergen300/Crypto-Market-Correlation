@@ -5,6 +5,6 @@ Contents :
 
 market_corr.py : main file 
 
-function.py : used function in market_corr.py
+function.py : used functions in market_corr.py
 
 
